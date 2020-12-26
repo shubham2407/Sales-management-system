@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sales Management System", ".", "{32F15354-362D-4D03-A6FC-59258E2D9D9F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49405"
+		Debug.AspNetCompiler.PhysicalPath = "..\Sales Management System\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49405\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49405"
+		Release.AspNetCompiler.PhysicalPath = "..\Sales Management System\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49405\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49405"
+		SlnRelativePath = "..\Sales Management System\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F15354-362D-4D03-A6FC-59258E2D9D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F15354-362D-4D03-A6FC-59258E2D9D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA7BFB3-1FFC-4C29-8A63-A9C4013A0F43}
+	EndGlobalSection
+EndGlobal
